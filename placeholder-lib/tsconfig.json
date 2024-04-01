@@ -18,6 +18,7 @@
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "allowJs": true,
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": {
